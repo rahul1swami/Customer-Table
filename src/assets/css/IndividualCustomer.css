@@ -1,0 +1,24 @@
+.user-information {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 1em 0;
+}
+.title-side {
+  font-size: 18px;
+  padding: 0 1em;
+  width: 30%;
+  text-align: justify;
+}
+.information-side {
+  width: 70%;
+  text-align: left;
+  font-size: 18px;
+}
+#profile-image {
+  height: 7em;
+  width: 7em;
+}
+#table-data {
+  text-transform: capitalize;
+}
